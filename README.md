@@ -1,4 +1,4 @@
-# [This repository was created for the PINN tutorial]
+# PINN tutorial
 
 Developed for the PINN tutorial used in the Fall 2025 course.
 
