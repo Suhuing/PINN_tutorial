@@ -20,13 +20,13 @@ conda activate pinn_tutorial
    cd PINN_tutorial/PINN_MPC/src
    python3 main.py
    ```
-2. **Example 1**
+2. **Example 1** - 온도 예측
    ```bash
    jupyter-notebook
    enter temp_pred.ipynb
    ```
 
-3. **Example 2**
+3. **Example 2** - 공의 수직 투척
    ```bash
    jupyter-notebook
    enter pinn_vs_data.ipynb
